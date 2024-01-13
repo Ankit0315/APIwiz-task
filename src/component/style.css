@@ -1,0 +1,96 @@
+body{
+    background-color: #EFF6FF;
+    font-size: 20px;
+}
+table{
+    width: 100%;
+    height: fit-content;
+}
+.table1{
+  width: 40%;
+}
+table, th, td {
+    border: 1px solid #E5E7EB;
+    color: rgb(44, 43, 43);
+    border-collapse: collapse;
+    background-color:white;
+   padding: 1px;
+  }
+  th,td{
+    font-weight: normal !important;
+    align-items:left !important;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  .main-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    justify-content: left;
+    align-items: left;
+   /* padding-top: 1px; */
+   padding-left: 30px;
+    /* margin: 2px; */
+    /* margin-left: auto;
+    margin-right: auto; */
+    width: 85%;
+    height: 80%;
+  }
+  .buton-modes{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+  }
+  button{
+    height: 40px;
+    width: 238px;
+    background-color: lightgray;
+    border:1px solid lightgray;
+    width: Fill (314px);
+    height: Fixed (36px);
+    padding: 8px, 12px, 8px, 12px;
+  
+    gap: 8px;
+    cursor: pointer;
+    
+  }
+  .buton-modes>button{
+    box-shadow: 0px 1px 2px 0px #1018280F;
+    box-shadow: 0px 1px 3px 0px #1018281A;
+
+  }
+  
+  textarea{
+    
+    border: 1px solid lightgray;
+  }
+  
+ .input-word>input{
+    width: 85%;
+    height: 38px;
+    border-radius: 7px;
+    border:1px solid #E5E7EB;
+ }
+.input-word button{
+    background-color: #731EE2;
+    width: 11%;
+height: Fill (40px);
+padding: 10px, 12px, 10px, 12px;
+border-radius: 4px;
+gap: 6px;
+color: white;
+   
+}
+.active-button{
+    background-color: white;
+}
+
+.below-table{
+border: 1px solid rgb(110, 110, 110);
+color: black;
+border-radius: 5px;
+padding: 5px;
+width: 97%;
+}
+
