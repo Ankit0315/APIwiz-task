@@ -178,12 +178,12 @@ const Textanalyzer = () => {
                   <table>
                     <thead>
                       <tr>
-                        <th align="left"> characters</th>
+                        <th align="left">Characters</th>
                         <th align="left">Words</th>
                         <th align="left">Sentences</th>
                         <th align="left">Paragraphs</th>
                         <th align="left">Spaces</th>
-                        <th align="left">Punctuation</th>
+                        <th align="left">Punctuations</th>
                       </tr>
                     </thead>
                     <tbody>
