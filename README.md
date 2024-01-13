@@ -1,5 +1,7 @@
 # Real-time Text Analyzer and Word Details UI
-* This project includes a real-time text analyzer and a word details UI, meeting the specified requirements. The application is hosted on netlify, and the source code can be found in the GitHub repository provided below.
+This project includes a real-time text analyzer and a word details UI, meeting the specified requirements. The application is hosted on netlify, and the source code can be found in the GitHub repository.<br/>
+<br/>
+Hosted Link : https://apiwiz-tasak-ankitrai.netlify.app/
 # Project Overview
  ### Real-time Text Analyzer
  The real-time text analyzer calculates the following metrics dynamically as the user types a paragraph:
